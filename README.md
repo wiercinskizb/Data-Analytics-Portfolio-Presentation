@@ -6,7 +6,7 @@ This repository contains my Data Analytics Portfolio Presentation, showcasing pr
 - Rockbuster Stealth: Customer rental behavior analysis for an online streaming service
 - Instacart: Customer demographics and purchasing pattern analysis
 - Pig E. Bank: Customer retention analysis in the banking sector
-- EV SALES & CHARGING INFRASTRUCTURE
+- EV Sales & Charging Infrastrukture
   
 ## Skills Demonstrated:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
